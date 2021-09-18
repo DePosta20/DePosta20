@@ -3,6 +3,7 @@
 ## I'm **Kapungu, Noel K.**
 
 🔭 <b>Full Stack</b> WEB Developer currently working with PHP, Laravel, Vanilla JS and Jquery.
+🌱 <b>Mobile Application Developer</b> currently working with Flutter.
 
 <!--
 **DePosta20/DePosta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
