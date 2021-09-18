@@ -2,7 +2,7 @@
 
 ## I'm **Kapungu, Noel K.**
 
-🔭 <b>Full Stack</b> WEB Developer currently working with PHP, Laravel, Vanilla JS and Jquery.
+🔭 <b>Full Stack</b> WEB Developer currently working with PHP, Laravel, Vanilla JS and Jquery. <br />
 🌱 <b>Mobile Application Developer</b> currently working with Flutter.
 
 <!--
