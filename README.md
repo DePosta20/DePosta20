@@ -106,13 +106,13 @@
 ### Statistical Data
 
 <p>
-    <img align="center"
+    <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" bg_color=#808080/>
+    alt="DePosta20" bg_color=#808080/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="DePosta20" /></p>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DePosta20&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DePosta20" />
