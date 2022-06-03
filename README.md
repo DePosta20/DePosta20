@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kapungu, Noel K.</h1>
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/DePosta20/DePosta20/main/GitHub.png" alt="DePosta202" height="200">
+    </div>
+
 <h3 align="center">Student at UDSM.</h3>
 
 ### Profile Views
