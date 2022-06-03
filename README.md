@@ -109,11 +109,9 @@
 ### Statistical Data
  <div align=center>
 <p>
-    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"            alt="DePosta20" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="DePosta20" bg_color=#808080/>
-    <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="DePosta20" />
 </p>
 
 <p>
