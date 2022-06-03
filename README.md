@@ -85,11 +85,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
       alt="Laravel" width="40" height="40" />
 </a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer">
+<a href="https://djangoproject.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
       alt="Django" width="40" height="40" />
 </a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer">
+<a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
       alt="Flask" width="40" height="40" />
 </a>
