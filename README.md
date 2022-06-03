@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kapungu, Noel K.</h1>
 <h3 align="center">Student at UDSM.</h3>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat"
     alt="Noel Kapungu" />
 </p>
 
@@ -28,12 +28,8 @@
   <a href="https://instagram.com/de_posta20" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>k <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+   <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-
-🌱 <b>Mobile Application Developer</b> currently working with Flutter.
 
