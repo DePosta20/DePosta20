@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kapungu, Noel K.</h1>
- <div align=center>
-        <img src="https://raw.githubusercontent.com/DePosta20/DePosta20/main/GitHub.png" alt="DePosta202" height="200">
-    </div>
-
 <h3 align="center">Student at UDSM.</h3>
 
 ### Profile Views
@@ -111,7 +107,7 @@
 </p>
 
 ### Statistical Data
-
+ <div align=center>
 <p>
     <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -123,10 +119,11 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DePosta20&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DePosta20" />
 </p>
-
+</div>
 <p align="left">
     <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
+ 
 
 [Noel Kapungu](https://github.com/DePosta20)
