@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Kapungu, Noel K
 
-## Full Stach Web Developer
+## Full Stack Web Developer
 
 <img align="left" src="https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat"
     alt="Noel Kapungu" />
@@ -21,24 +21,20 @@
 
 ⚡ Fun fact:- Soccer ⚽ is the reason to live, Messi is the **G.O.A.T**.
 
-<br>
+### Connect with me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://fb.com/deposta20" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Noel Kapungu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/noel-kapungu-303b951b2/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Noel Kapungu" height="30" width="40" /></a>
-<a href="https://instagram.com/de_posta20" target="blank"><img align="center"
+<a href="https://instagram.com/deposta20" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-<a href="https://twitter.com/de_posta1998" target="blank"><img align="center"
+<a href="https://twitter.com/DePosta20" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
-
-</p>
 
 ### Languages and Tools
 
