@@ -2,14 +2,16 @@
 
 ## Full Stach Web Developer
 
-[![Profile Review](https://img.shields.io/twitter/follow/DePosta20?label=Follow)](https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat)
+<img align="left" src="https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Noel Kapungu" />
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/DePosta20?label=Follow)](https://twitter.com/intent/follow?screen_name=DePosta20)
 ![GitHub followers](https://img.shields.io/github/followers/DePosta20?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://noelkapungu.me/)
 
 <!-- [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/DePosta20/) -->
 
-<img align="right" src="assets/img/prog.gif" alt="Programmer" />
+<img align="right" src="assets/img/prog.gif" alt="Programmer" height="50" />
 
 🔭 **_Full Stack_** WEB Developer currently working with PHP, Laravel, Django, Vanilla JS and Jquery.
 
