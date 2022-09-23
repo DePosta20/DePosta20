@@ -123,28 +123,13 @@
 
 <details> 
   <summary>💻 Profile Stats</summary>
+      <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="DePosta20" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
       alt="DePosta20" bg_color=#808080/>
-      <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="DePosta20" />
 **_Note:_** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
 
-<p align="center">
- 
-</p>
- <div align=center>
-<p>
-    
-</p>
-
-<p>
-    
-</p>
-</div>
-<p align="left">
-    <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
-</p>
+<a href="https://github.com/DePost20/github-readme-activity-graph"><img alt="Noel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DePost20&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [Noel Kapungu](https://github.com/DePosta20)
