@@ -13,13 +13,13 @@
 
 <img align="right" src="assets/img/prog.gif" alt="Programmer" />
 
-- 🔭 **_Full Stack_** WEB Developer currently working with PHP, Laravel, Vanilla JS and Jquery.
+🔭 **_Full Stack_** WEB Developer currently working with PHP, Laravel, Django, Vanilla JS and Jquery.
 
-- 🌱 I’m currently learning about **DJANGO**
+🌱 Please could you advice me what to learn.
 
-- 📫 How to reach me **noelikapungu3@gmail.com**
+📫 Reach me through **noelikapungu3@gmail.com**
 
-- ⚡ Fun fact:- Soccer ⚽ is the reason to live, Messi is the **G.O.A.T**.
+⚡ Fun fact:- Soccer ⚽ is the reason to live, Messi is the **G.O.A.T**.
 
 <br>
 
