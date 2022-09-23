@@ -11,7 +11,7 @@
 
 <!-- [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/DePosta20/) -->
 
-<img align="right" src="assets/img/prog.gif" alt="Programmer" height="200" />
+<img align="right" src="assets/img/prog.gif" alt="Programmer" height="300" />
 
 🔭 **_Full Stack_** WEB Developer currently working with PHP, Laravel, Django, Vanilla JS and Jquery.
 
