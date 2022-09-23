@@ -40,7 +40,6 @@
 
 ### Languages and Tools
 
-<p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
@@ -84,11 +83,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
       alt="bootstrap" width="40" height="40" />
 </a>
-</p>
 
 ### FrameWorks
 
-<p align="left">
 <a href="https://laravel.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
       alt="Laravel" width="40" height="40" />
@@ -105,7 +102,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
       alt="Flutter" width="40" height="40" />
 </a>
-</p>
+
+---
 
 ### Statistical Data
 
