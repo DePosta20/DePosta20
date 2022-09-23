@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kapungu, Noel K.</h1>
-<h3 align="center">Student at UDSM.</h3>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kapungu, Noel K
+
+## Student at UDSM
 
 ### Profile Views
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat"
+<img align="left" src="https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat"
     alt="Noel Kapungu" />
-</p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" src="assets/img/prog.gif" alt="Programmer" />
 
-- 🔭 <b>Full Stack</b> WEB Developer currently working with PHP, Laravel, Vanilla JS and Jquery. <br />
+- 🔭 **_Full Stack_** WEB Developer currently working with PHP, Laravel, Vanilla JS and Jquery.
 
 - 🌱 I’m currently learning about **DJANGO**
 
@@ -107,6 +106,7 @@
 </p>
 
 ### Statistical Data
+
  <div align=center>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"            alt="DePosta20" />
@@ -122,6 +122,5 @@
     <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
- 
 
 [Noel Kapungu](https://github.com/DePosta20)
