@@ -21,8 +21,6 @@
 
 ⚡ Fun fact:- Soccer ⚽ is the reason to live, Messi is the **G.O.A.T**.
 
----
-
 ### Connect with me
 
 <a href="https://fb.com/deposta20" target="blank"><img align="center"
@@ -37,6 +35,8 @@
 <a href="https://twitter.com/DePosta20" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+
+---
 
 ### Languages and Tools
 
