@@ -130,6 +130,6 @@
 
 </details>
 
-<a href="https://github.com/DePost20/github-readme-activity-graph"><img alt="Noel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DePost20&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DePosta20/github-readme-activity-graph"><img alt="Noel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DePosta20&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [Noel Kapungu](https://github.com/DePosta20)
