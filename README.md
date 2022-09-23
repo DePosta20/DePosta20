@@ -92,7 +92,7 @@
       alt="mysql" width="40" height="40" />
 </a>
 
-### FrameWorks
+### Frame Works
 
 <a href="https://laravel.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
@@ -114,6 +114,12 @@
 ---
 
 ### Statistical Data
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C910%20hrs%202%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%DePosta20)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
  <div align=center>
 <p>
