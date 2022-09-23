@@ -113,19 +113,19 @@
 
 ---
 
+## 🔥 Streak stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"            alt="DePosta20" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="DePosta20" bg_color=#808080/>
+</p>
+
 ### Statistical Data
-
-<!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C910%20hrs%202%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-927-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
  <div align=center>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"            alt="DePosta20" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="DePosta20" bg_color=#808080/>
+    
 </p>
 
 <p>
