@@ -1,4 +1,4 @@
-# Hi ![Tux, the Linux mascot](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif){ width: 48px; } I'm Kapungu, Noel K
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Kapungu, Noel K
 
 ## Full Stach Web Developer
 
