@@ -2,9 +2,7 @@
 
 ## Full Stach Web Developer
 
-<img align="left" src="https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Noel Kapungu" />
-
+[![Profile Review](https://img.shields.io/twitter/follow/DePosta20?label=Follow)](https://komarev.com/ghpvc/?username=DePosta20&label=Profile%20views&color=0e75b6&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DePosta20?label=Follow)](https://twitter.com/intent/follow?screen_name=DePosta20)
 ![GitHub followers](https://img.shields.io/github/followers/DePosta20?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://noelkapungu.me/)
