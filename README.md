@@ -116,20 +116,23 @@
 ## 🔥 Streak stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"            alt="DePosta20" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="DePosta20" bg_color=#808080/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DePosta20&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DePosta20" />
 </p>
 
 ### Statistical Data
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"            alt="DePosta20" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DePosta20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="DePosta20" bg_color=#808080/>
+</p>
  <div align=center>
 <p>
     
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DePosta20&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DePosta20" />
+    
 </p>
 </div>
 <p align="left">
